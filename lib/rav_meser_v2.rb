@@ -9,6 +9,7 @@ require 'rav_meser_v2/subscriber'
 require 'rav_meser_v2/webhook'
 require 'rav_meser_v2/tag'
 require 'rav_meser_v2/personal_field'
+require 'rav_meser_v2/event'
 
 require 'rav_meser_v2/connection'
 
